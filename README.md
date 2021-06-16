@@ -13,7 +13,7 @@
   
   ## Description
   
-  This is a small application that allows you to write and save notes. It allows you to view past notes and delete past notes as well.
+  This is a small application that allows you to write and save notes. It allows you to view past notes and delete past notes as well. A deployed link can be found [here](https://note-taker-risseler.herokuapp.com/)
   
   ## Installation
   
